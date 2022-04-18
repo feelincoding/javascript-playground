@@ -1,3 +1,4 @@
 # javascript-playground
+# 참고: https://ko.javascript.info/
 ## 20220406 프로젝트 생성  
-+ 실습이 필요한 개념 및 예제를 위한 playground
++ 실습과 개념 정리를 위한 playground
